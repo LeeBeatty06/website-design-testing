@@ -1,2 +1,2 @@
-# website-design-testing
-Learning HTML for web design
+# html-starter
+Design for the Web I HTML Starter files
